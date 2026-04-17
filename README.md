@@ -41,5 +41,7 @@ How to Run
    ```bash
    gcc scheduler.c -o scheduler
 
-2. Run Streamlit app
-   streamlit run app/app.py by opening main folder (DAPS) as integrated terminal
+2. Run Streamlit app:
+
+```bash
+streamlit run frontend/app.py
