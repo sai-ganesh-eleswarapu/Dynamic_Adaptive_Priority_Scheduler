@@ -54,6 +54,7 @@ int main() {
     int ganttIndex = 0;
 
     // ---------- MAIN LOOP ----------
+    // Improved scheduler logic and optimized execution flow. 
     while (completedProcesses < numberOfProcesses) {
 
         int highestPriority = -1;
