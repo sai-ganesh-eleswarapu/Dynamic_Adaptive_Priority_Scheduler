@@ -1,4 +1,4 @@
-# Made changes in UI Visualisation and Finalised UI.
+# Improved the Streamlit visualisation.
 
 import streamlit as st
 import subprocess
