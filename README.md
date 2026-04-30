@@ -44,7 +44,7 @@ How to Run
    
 
 2. Run Streamlit app:
-
+   open frontend folder as integirated terminal and run the code by using.. 
 ```bash
 streamlit run frontend/app.py
 ```
